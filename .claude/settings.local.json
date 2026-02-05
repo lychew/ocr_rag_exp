@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "WebSearch",
+      "Bash(where:*)",
+      "Bash(powershell -Command:*)",
+      "Bash($env:PATH -split ';')",
+      "Bash(Where-Object { $_ -match 'node|npm|anaconda' })",
+      "Bash(echo:*)",
+      "Bash(tr:*)",
+      "Bash(cmd /c \"echo %PATH%\")",
+      "Bash(printenv:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
