@@ -95,7 +95,7 @@ uv run scripts/evaluate.py --question "What are germs?"
 
 ```bash
 # Start the Streamlit chatbot interface
-streamlit run app.py
+uv run streamlit run app.py
 ```
 
 This opens a web-based chat interface where you can:
@@ -127,7 +127,7 @@ The `app.py` provides a web-based chat interface for the RAG pipeline.
 
 **Launch:**
 ```bash
-streamlit run app.py
+uv run streamlit run app.py
 ```
 
 **VLM Enhancement:**
