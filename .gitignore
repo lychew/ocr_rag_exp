@@ -31,3 +31,6 @@ nul
 .venv/
 venv/
 env/
+
+.claude
+CLAUDE.md
