@@ -32,5 +32,4 @@ nul
 venv/
 env/
 
-.claude
-CLAUDE.md
+./claude
