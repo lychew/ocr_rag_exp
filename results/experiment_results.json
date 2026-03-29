@@ -1,0 +1,56 @@
+{
+  "tesseract__page": {
+    "groundedness": 0.7,
+    "faithfulness": 0.87,
+    "relevance": 0.8,
+    "confidence": 0.73
+  },
+  "tesseract__parent_child": {
+    "groundedness": 0.9,
+    "faithfulness": 1.0,
+    "relevance": 0.8,
+    "confidence": 0.72
+  },
+  "tesseract__semantic": {
+    "groundedness": 0.75,
+    "faithfulness": 0.72,
+    "relevance": 0.87,
+    "confidence": 0.74
+  },
+  "easyocr__page": {
+    "groundedness": 0.76,
+    "faithfulness": 0.9,
+    "relevance": 0.87,
+    "confidence": 0.73
+  },
+  "easyocr__parent_child": {
+    "groundedness": 0.47,
+    "faithfulness": 0.76,
+    "relevance": 0.79,
+    "confidence": 0.73
+  },
+  "easyocr__semantic": {
+    "groundedness": 0.89,
+    "faithfulness": 0.86,
+    "relevance": 0.87,
+    "confidence": 0.73
+  },
+  "paddleocr__page": {
+    "groundedness": 0.67,
+    "faithfulness": 0.78,
+    "relevance": 0.86,
+    "confidence": 0.74
+  },
+  "paddleocr__parent_child": {
+    "groundedness": 0.95,
+    "faithfulness": 0.82,
+    "relevance": 0.86,
+    "confidence": 0.74
+  },
+  "paddleocr__semantic": {
+    "groundedness": 0.78,
+    "faithfulness": 1.0,
+    "relevance": 0.87,
+    "confidence": 0.75
+  }
+}
